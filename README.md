@@ -3,7 +3,7 @@
 An interactive, gamified **reward ladder** for the [EYFI (Earn Your First Income) Challenge](https://eyfichallenge.com/)
 Campus Ambassador program. Built as an assignment for Polygnan.
 
-**▶ Live demo:** https://claude.ai/code/artifact/6f275c83-7c2b-42e9-b872-b741ac50a9c8
+**▶ Live demo:** https://tusharbhardwa.github.io/eyfi-ambassador-reward-ladder/
 
 ![Demo of The Climb reward ladder](reward-ladder-demo.gif)
 
@@ -41,3 +41,7 @@ respects `prefers-reduced-motion`.
 
 Vanilla HTML/CSS/JS (no frameworks, no external assets — confetti is a `<canvas>` particle system).
 Demo recorded headlessly with Playwright and assembled into a GIF with Python/Pillow.
+
+## Author
+
+Built by **Tushar Bhardwaj**. All my socials are here → https://minianonlink.vercel.app/tusharbhardwaj
