@@ -45,3 +45,7 @@ Demo recorded headlessly with Playwright and assembled into a GIF with Python/Pi
 ## Author
 
 Built by **Tushar Bhardwaj**. All my socials are here → https://minianonlink.vercel.app/tusharbhardwaj
+
+## License
+
+Released under the [MIT License](LICENSE).
