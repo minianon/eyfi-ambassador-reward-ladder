@@ -4,7 +4,7 @@ An interactive **reward ladder** for the [EYFI (Earn Your First Income) Challeng
 Campus Ambassador program, built to match the live [ambassador.eyfichallenge.com](https://ambassador.eyfichallenge.com/)
 design system exactly. Built as an assignment for Polygnan.
 
-**▶ Live demo:** https://tusharbhardwa.github.io/eyfi-ambassador-reward-ladder/
+**▶ Live demo:** https://minianon.github.io/eyfi-ambassador-reward-ladder/
 
 ![Demo of the EYFI reward ladder](reward-ladder-demo.gif)
 
@@ -51,6 +51,13 @@ demo recorded headlessly with Playwright and assembled into a GIF with **Python/
 ## Author
 
 Built by **Tushar Bhardwaj**. All my socials are here → https://link.minianon.in/tusharbhardwaj
+
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
 
 ## License
 
