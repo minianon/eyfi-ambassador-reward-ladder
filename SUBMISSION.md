@@ -14,7 +14,7 @@ Serif). Mobile-first, keyboard-accessible, and reduced-motion aware.
 ## Tools & how I did it
 I used **Claude Code** to reverse-engineer the production design system (colors, fonts, animations,
 coin motifs) from `eyfichallenge.com` + `ambassador.eyfichallenge.com` with a headless **Playwright**
-browser, captured it in a `CLAUDE.md` brand guide, then hand-built the ladder as one self-contained
+browser, captured it in a `BRAND_GUIDE.md` brand guide, then hand-built the ladder as one self-contained
 HTML/CSS/JS file (no frameworks) styled with their tokens. The demo clip was recorded headlessly with
 Playwright and assembled into a GIF with **Python/Pillow**.
 
@@ -22,4 +22,4 @@ Playwright and assembled into a GIF with **Python/Pillow**.
 - Live: https://tusharbhardwa.github.io/eyfi-ambassador-reward-ladder/
 - `reward-ladder.html` / `index.html` — the page
 - `reward-ladder-demo.gif` / `.webm` — the ~7s demo clip
-- `CLAUDE.md` — the extracted EYFI design system
+- `BRAND_GUIDE.md` — the extracted EYFI design system

@@ -29,7 +29,7 @@ keyboard-accessible, and respects `prefers-reduced-motion`.
 ## Matching the brand
 
 To make it look like a real slice of the production site, I extracted the live design system with a
-headless browser and rebuilt against it (documented in [`CLAUDE.md`](CLAUDE.md)):
+headless browser and rebuilt against it (documented in [`BRAND_GUIDE.md`](BRAND_GUIDE.md)):
 
 - **Colors** — dark charcoal + white dot-grid, lime `#C4F62E` primary, orange `#FF5A1F`, gold `#E8B923`
 - **Type** — Bricolage Grotesque (display), Space Grotesk (body), Instrument Serif (italic accents), Open Sans
@@ -39,7 +39,7 @@ headless browser and rebuilt against it (documented in [`CLAUDE.md`](CLAUDE.md))
 
 - [`reward-ladder.html`](reward-ladder.html) / [`index.html`](index.html) — the page (self-contained, real Google Fonts)
 - [`reward-ladder-demo.gif`](reward-ladder-demo.gif) / [`reward-ladder-demo.webm`](reward-ladder-demo.webm) — ~7s demo
-- [`CLAUDE.md`](CLAUDE.md) — the EYFI design system / brand guide
+- [`BRAND_GUIDE.md`](BRAND_GUIDE.md) — the EYFI design system / brand guide
 - [`SUBMISSION.md`](SUBMISSION.md) — assignment note (tools & approach)
 
 ## Built with
