@@ -50,7 +50,7 @@ demo recorded headlessly with Playwright and assembled into a GIF with **Python/
 
 ## Author
 
-Built by **Tushar Bhardwaj**. All my socials are here → https://minianonlink.vercel.app/tusharbhardwaj
+Built by **Tushar Bhardwaj**. All my socials are here → https://link.minianon.in/tusharbhardwaj
 
 ## License
 
